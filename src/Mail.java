@@ -1,7 +1,6 @@
 
 //需要用户名密码邮件发送实例
 //本实例以新浪邮箱为例，你需要在新浪后台设置POP3/SMTP服务开启
-//更多邮件示例- http://www.magicsite.cn/java/java-sending-email.html
 
 import java.util.Properties;
 
